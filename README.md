@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yigit</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [yigittn.me](yigittn.me)
+- 🌱 I’m currently learning **Web3**
+
+- 📝 I regularly write articles on [yigittn.me](yigittn.me)
 
 - 📫 How to reach me **yigit.ustun@hotmail.com**
 
