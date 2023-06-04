@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [yigittn.me](yigittn.me)
+
 
 - 📫 How to reach me **yigit.ustun@hotmail.com**
 
