@@ -23,20 +23,20 @@
 
 ### Tech Stack
 
-#### Data Analytics & Data Science
+### Data Analytics & Data Science
 
-• Python
-• SQL
-• JavaScript
-• Pandas
-• NumPy
-• Scikit-Learn
-• Git
-• GitHub
-• REST APIs
-• Data Visualization
-• Machine Learning
-• NLP
+- Python
+- SQL
+- JavaScript
+- Pandas
+- NumPy
+- Scikit-Learn
+- Git
+- GitHub
+- REST APIs
+- Data Visualization
+- Machine Learning
+- NLP
 
 #### Data Engineering
 
