@@ -8,7 +8,6 @@
 
 * 📊 Building data-driven projects with Python and SQL
 * 🤖 Interested in AI, Machine Learning, NLP, and Data Science
-* 📈 Currently working on AI Startup Radar and Job Market Intelligence projects
 * 🌍 Based in Prague
 * 🌱 Continuously learning and improving through real-world projects
 
@@ -49,11 +48,3 @@
 * Dashboard Development
 * AI Evaluation & Benchmarking
 
----
-
-### Featured Project Goals
-
-* 🚀 AI Startup Radar
-* 💼 AI-Powered Job Market Intelligence
-* 🏠 European Housing Market Analytics
-* 📊 LLM Benchmark & Evaluation Platform
