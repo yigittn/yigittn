@@ -25,13 +25,18 @@
 
 #### Data Analytics & Data Science
 
-* Python
-* SQL
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
+• Python
+• SQL
+• JavaScript
+• Pandas
+• NumPy
+• Scikit-Learn
+• Git
+• GitHub
+• REST APIs
+• Data Visualization
+• Machine Learning
+• NLP
 
 #### Data Engineering
 
