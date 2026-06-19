@@ -17,7 +17,7 @@
 
 <a href="https://linkedin.com/in/yigittn" target="_blank">LinkedIn</a>
 
-📧 [yigit.ustun@hotmail.com](mailto:yigit.ustun@hotmail.com)
+[yigit.ustun@hotmail.com](mailto:yigit.ustun@hotmail.com)
 
 ---
 
