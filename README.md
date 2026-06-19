@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yigit Ustun</h1>
+<h1 align="center">Hi 👋, I'm Yiğit ÜSTÜN</h1>
 
-<h3 align="center">Aspiring Data Analyst & AI Enthusiast</h3>
+<h3 align="center"> Data Analyst & Data Science </h3>
 
 ---
 
